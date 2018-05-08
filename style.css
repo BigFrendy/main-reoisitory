@@ -1,25 +1,49 @@
 body{
-    width: 99%;
-    height: 100%;
-}
-.hat{
-    
-    height:100px;
     width:100%;
-    border: 1px solid black;
-    clear : left;
+    height: 100%;
+    margin-left:-0.3px;
+    margin-top:-2px;
+}
+.header{
+    
+    height:150px;
+    width:100%;
+    
 }
 .box1{
     float:left;
-    padding-left:1px;
-    width:54%;
+    width:50%;
     height:200px;
-    border: 1px solid black;
+    
+    margin-top:5px;
 
 }
 .box2{
     float:right;
-    width:45%;
-    height:200px;
-    border: 1px solid black;
+    
+    margin-top:5px;
+    width:50%;
+    height:400px;
+    
+}
+.header-img{
+    width:100%;
+    height:150px;   
+}
+ 
+
+.btn{
+    float: right;
+    width:150px;
+    height:110px;
+    
+}   
+
+.btn1{
+    clear:left;
+    background:url("buynow.png") no-repeat ;
+}
+.btn2{
+    clear:right;
+
 }

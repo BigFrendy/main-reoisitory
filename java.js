@@ -1,5 +1,12 @@
-var selector = document.querySelector(".btn")
-var hat = document.querySelector(".hat")
-selector.addEventListener("click",function(){
-    hat.style.background = "black"
+
+var button = document.querySelector(".btn1")
+var hat = document.querySelector(".header-img")
+var box1 = document.querySelector(".box1")
+
+button.addEventListener("click",function(){
+    box1.style.background = "black";
+  
+
 })
+
+
