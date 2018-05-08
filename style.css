@@ -1,0 +1,25 @@
+body{
+    width: 99%;
+    height: 100%;
+}
+.hat{
+    
+    height:100px;
+    width:100%;
+    border: 1px solid black;
+    clear : left;
+}
+.box1{
+    float:left;
+    padding-left:1px;
+    width:54%;
+    height:200px;
+    border: 1px solid black;
+
+}
+.box2{
+    float:right;
+    width:45%;
+    height:200px;
+    border: 1px solid black;
+}
