@@ -35,7 +35,7 @@ body{
     width: 133px;
     z-index: 3;
 }
-.hdr-btn{
+ .hdr-btn{
     position: absolute;
     right:546px;
     margin-top:42px;
@@ -48,15 +48,15 @@ body{
 .iPhone{
     
     position: absolute;
-    left: -230px;
-    margin-top:22px;
+    left:5px;
+    margin-top:155px;
     z-index: 2;
     
 }
 .tomato{
     position:absolute;
     margin-top: 267px;
-    left: 1430px;
+    left: 1410px;
 }
 .banana{
     position:absolute;
@@ -109,4 +109,36 @@ body{
     position:absolute;  
     z-index:3;
 
+}
+.about{
+    background: url(header.png);
+    position:absolute;
+    width:50px;
+    height: 14px;
+    left:605px;
+    top:42px;
+    z-index:3;
+}
+a{
+    z-index:3;
+
+}
+.features{
+    
+    background: url(header.png) no-repeat -105px -1px;
+    position:absolute;
+    width:74px;
+    height: 13px;
+    left:710px;
+    top:43px;
+    z-index:3;
+}
+.reviews{
+    background: url(header.png)  no-repeat -232px -1px;
+    position:absolute;
+    width:69px;
+    height:13px;
+    z-index: 3;
+    left:837px;
+    top:43px;
 }
