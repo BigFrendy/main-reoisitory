@@ -142,3 +142,22 @@ a{
     left:837px;
     top:43px;
 }
+.blog{
+    background: url(header.png) no-repeat -354px -1px;
+    position: absolute;
+    width: 37px;
+    height: 18px;
+    z-index: 3;
+    left: 959px;
+    top:43px;
+}
+.support{
+    background: url(header.png) no-repeat -444px -1px;
+    position: absolute;
+    left: 1049px;
+    z-index: 3;
+    width: 67px;
+    height: 17px;
+    top:43px;
+
+}
