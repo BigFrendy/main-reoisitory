@@ -1,5 +1,5 @@
 body{
-    width:1662px;
+    
     height: 3844px;
     margin-left:-0.3px;
     margin-top:-2px;
@@ -7,9 +7,9 @@ body{
 
 .top-box{
     display:block;
-    position: absolute;
-    background: url(top-box.png);
-    width:1662px;
+
+    background: url(top-box.png) no-repeat;
+    width: auto;
     height:900px;
 } 
 .btn-1{
